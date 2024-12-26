@@ -1,8 +1,6 @@
 ## NAME:SUDARSAN.A
 ## REG NO:24900190
-# EXP NO 4:FULL_ADDER_SUBTRACTOR
-
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+# EXP NO 4:IMPLEMENTATION OF FULL ADDER AND FULL SUBTRACTOR CIRCUIT
 
 ## AIM: ##
 
